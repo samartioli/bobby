@@ -1,6 +1,7 @@
 # Basic Web Page
 
-## Check out the project from git (This only has to be done once)
+## Check out the project from git
+(This only has to be done once)
 
     cd ~/Documents
     git clone https://github.com/samartioli/bobby.git
